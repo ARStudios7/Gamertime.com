@@ -48,7 +48,7 @@ border-radius: 10px;
   width: 100%;
   text-align: center;
   font-family: Gore Rough;
-  src: (Gore Rough.otf); 
+  src: url(Gore Rough.otf); 
 }
 .numbertext {
   color: #f2f2f2;
