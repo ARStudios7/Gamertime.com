@@ -6,7 +6,7 @@ border-radius: 10px;
 }
 @font-face {
   font-family: Gore Rough;
-  src: url(https://github.com/ARStudios7/Gamertime.com/blob/377a70c929528b6dd1cc51636c79f3c77917b0ff/Gore%20Rough.otf);
+  src: https://github.com/ARStudios7/Gamertime.com/blob/377a70c929528b6dd1cc51636c79f3c77917b0ff/Gore%20Rough.otf;
 }
 
 
@@ -48,7 +48,7 @@ border-radius: 10px;
   width: 100%;
   text-align: center;
   font-family: Gore Rough;
-  src: url(https://github.com/ARStudios7/Gamertime.com/blob/377a70c929528b6dd1cc51636c79f3c77917b0ff/Gore%20Rough.otf); 
+  src: https://github.com/ARStudios7/Gamertime.com/blob/377a70c929528b6dd1cc51636c79f3c77917b0ff/Gore%20Rough.otf; 
 }
 .numbertext {
   color: #f2f2f2;
