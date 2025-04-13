@@ -4,6 +4,10 @@ img {
 
 border-radius: 10px;
 }
+@font-face {
+  font-family: Gore Rough;
+  src: url(Gore Rough.otf);
+}
 
 
 .slideshow-container {
